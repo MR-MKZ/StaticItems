@@ -13,6 +13,13 @@
             "suggested": false,
             "downloadLink": "https://github.com/2dust/v2rayNG/releases/latest",
             "addLink": "v2rayng://install-config?url={url}"
+        },
+        {
+            "name": "V2box",
+            "description": "متن دلخواه",
+            "suggested": false,
+            "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
+            "addLink": "v2box://install-sub?url={url}&name={name}"
         }
     ],
     "windows": [
